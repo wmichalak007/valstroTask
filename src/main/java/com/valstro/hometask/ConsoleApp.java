@@ -18,6 +18,7 @@ import java.util.logging.LogManager;
  * Maven and Java 17 is required to run the application.<br>
  * Application can be executed using:
  * <pre>mvn exec:java</pre>
+ * Or by running this class either directly from console or IDE (the latter is easier)
  */
 public class ConsoleApp {
 
