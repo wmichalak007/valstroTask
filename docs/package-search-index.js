@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.valstro.hometask"},{"l":"com.valstro.hometask.client"},{"l":"com.valstro.hometask.transaction"}];updateSearchResults();
